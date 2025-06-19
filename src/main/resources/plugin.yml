@@ -1,6 +1,6 @@
 name: DispenserSeedPlanter
 main: com.gamatek.dispenserseedplanter.DispenserSeedPlanter
-version: 1.0
+version: 1.0.0
 api-version: 1.21
 description: Allows dispensers to automatically plant seeds.
 commands: {}
