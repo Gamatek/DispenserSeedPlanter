@@ -34,16 +34,3 @@ This plugin allows dispensers to automatically plant all plantable items on a Sp
 1. Build the project with Maven.
 2. Place the generated JAR file in your server's `plugins` folder.
 3. Restart the server.
-
-## Configuration
-No configuration required.
-
-## Changelog
-
-### 1.0 (2025-05-25)
-- Initial release
-- The dispenser automatically tills (hoe) dirt, grass, podzol, etc. into farmland before planting seeds, potatoes, or carrots.
-- Support for all plantable items: seeds, saplings, sugar cane, bamboo, mushrooms, sweet berries, nether wart, chorus flower, cocoa beans.
-
-## Author
-Gamatek
