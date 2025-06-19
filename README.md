@@ -1,10 +1,15 @@
-# DispenserSeedPlanter
+# 🌱 DispenserSeedPlanter
 
 This plugin allows dispensers to automatically plant all plantable items on a Spigot Minecraft server.
 
 ## Features
 - When a dispenser contains plantable items and is activated, it will plant the item in front of it if the block and conditions are valid.
 - The dispenser can now automatically till (hoe) dirt, grass, podzol, etc. into farmland before planting seeds, potatoes, or carrots.
+
+## Installation
+1. Build the project with Maven.
+2. Place the generated JAR file in your server's `plugins` folder.
+3. Restart the server.
 
 ## Supported Items
 - Wheat Seeds (WHEAT_SEEDS)
@@ -29,8 +34,3 @@ This plugin allows dispensers to automatically plant all plantable items on a Sp
 - Nether Wart (NETHER_WART)
 - Chorus Flower (CHORUS_FLOWER)
 - Cocoa Beans (COCOA_BEANS)
-
-## Installation
-1. Build the project with Maven.
-2. Place the generated JAR file in your server's `plugins` folder.
-3. Restart the server.
